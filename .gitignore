@@ -1,0 +1,61 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.hprof
+
+# Build-Verzeichnisse
+/build/
+/out/
+/target/
+*/target/
+*.class
+
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VSCODE
+/.vscode/
+/*.code-workspace
+
+# Maven
+.mvn/
+!**/src/main/resources/
+!**/src/main/java/
+!**/src/test/java/
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Logs
+logs/
+*.log
+
+# OS spezifische Dateien
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.swp
+*.swo
+*.tmp
+*.tmp.*
+*.orig
+
+# Package files
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+*.gz
+*.bz2
+
+# Dependency directories
+/lib/
