@@ -11,7 +11,27 @@
 
 Für detaillierte Informationen und Anleitungen besuchen Sie bitte: [Integration Developer](https://integration-developer.de/kafka-cluster_mit_kafdrop_docker/)
 
----
+## Projektstruktur
 
-**Created by**: integration-developer.de  
-**License**: Dieses Projekt steht unter der [Feel free to experiment] Lizenz.
+```plaintext
+kafka_kafdrop_docker
+├── kafka.yml
+├── pom.xml
+├── README.md
+├── src
+│   └── main
+│       └── java
+│           └── com
+│               └── learning
+│                   └── kafka
+│                       ├── KafkaTestConsumer.java
+│                       └── KafkaTestProducer.java
+```
+
+## Author
+
+Created by integration-developer.de
+
+## License
+
+This project is licensed under the [Feel free to experiment] license.
