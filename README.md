@@ -28,10 +28,6 @@ kafka_kafdrop_docker
 │                       └── KafkaTestProducer.java
 ```
 
-## Author
-
-Created by integration-developer.de
-
 ## License
 
 This project is licensed under the [Feel free to experiment] license.
